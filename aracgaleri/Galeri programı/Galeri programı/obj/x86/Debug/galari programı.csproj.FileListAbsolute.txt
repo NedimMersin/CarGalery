@@ -1,0 +1,26 @@
+C:\Users\bt558\Desktop\galari programı\galari programı\bin\Debug\galari programı.exe
+C:\Users\bt558\Desktop\galari programı\galari programı\bin\Debug\galari programı.pdb
+C:\Users\bt558\Desktop\galari programı\galari programı\obj\x86\Debug\galari_programı.Form1.resources
+C:\Users\bt558\Desktop\galari programı\galari programı\obj\x86\Debug\galari_programı.Properties.Resources.resources
+C:\Users\bt558\Desktop\galari programı\galari programı\obj\x86\Debug\galari programı.csproj.GenerateResource.Cache
+C:\Users\bt558\Desktop\galari programı\galari programı\obj\x86\Debug\galari programı.exe
+C:\Users\bt558\Desktop\galari programı\galari programı\obj\x86\Debug\galari programı.pdb
+C:\Users\bt558\Desktop\galari programı\galari programı\obj\x86\Debug\galari programı.csprojResolveAssemblyReference.cache
+C:\Users\kazimsimsek\Desktop\galari programı\galari programı\obj\x86\Debug\galari programı.exe
+C:\Users\kazimsimsek\Desktop\galari programı\galari programı\obj\x86\Debug\galari programı.pdb
+C:\Users\kazimsimsek\Desktop\galari programı\galari programı\bin\Debug\galari programı.exe
+C:\Users\kazimsimsek\Desktop\galari programı\galari programı\bin\Debug\galari programı.pdb
+C:\Users\kazimsimsek\Desktop\galari programı\galari programı\obj\x86\Debug\galari programı.csprojResolveAssemblyReference.cache
+C:\Users\kazimsimsek\Desktop\galari programı\galari programı\obj\x86\Debug\galari_programı.Form1.resources
+C:\Users\kazimsimsek\Desktop\galari programı\galari programı\obj\x86\Debug\galari_programı.Properties.Resources.resources
+C:\Users\kazimsimsek\Desktop\galari programı\galari programı\obj\x86\Debug\galari programı.csproj.GenerateResource.Cache
+C:\Users\Nedim\Desktop\aracgaleri\galari programı\galari programı\obj\x86\Debug\galari programı.csprojResolveAssemblyReference.cache
+C:\Users\Nedim\Desktop\aracgaleri\galari programı\galari programı\obj\x86\Debug\galari_programı.Form1.resources
+C:\Users\Nedim\Desktop\aracgaleri\galari programı\galari programı\obj\x86\Debug\galari_programı.Properties.Resources.resources
+C:\Users\Nedim\Desktop\aracgaleri\galari programı\galari programı\obj\x86\Debug\galari programı.csproj.GenerateResource.cache
+C:\Users\Nedim\Desktop\aracgaleri\galari programı\galari programı\obj\x86\Debug\galari programı.csproj.CoreCompileInputs.cache
+C:\Users\Nedim\Desktop\aracgaleri\galari programı\galari programı\obj\x86\Debug\galari programı.exe
+C:\Users\Nedim\Desktop\aracgaleri\galari programı\galari programı\obj\x86\Debug\galari programı.pdb
+C:\Users\Nedim\Desktop\aracgaleri\galari programı\galari programı\bin\Debug\galari programı.exe
+C:\Users\Nedim\Desktop\aracgaleri\galari programı\galari programı\bin\Debug\galari programı.pdb
+C:\Users\Nedim\Desktop\aracgaleri\galari programı\galari programı\obj\x86\Debug\galari_programı.Form2.resources
